@@ -1,0 +1,58 @@
+<html>
+<head><meta charset="utf-8">
+	<title>Buy our merch!</title>
+</head>
+<body>
+<h1 style="text-align: center;"><span style="font-family:tahoma,geneva,sans-serif;">Sick Merch</span></h1>
+
+<p style="text-align: center;"><span style="font-family:tahoma,geneva,sans-serif;">Buy now!</span></p>
+
+<form action="https://www.paypal.com/donate" align="center" method="post" target="_top"><input name="hosted_button_id" type="hidden" value="FRDSSWHKVS5S4" /> <input alt="Donate with PayPal button" border="0" name="submit" src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" title="PayPal - The safer, easier way to pay online!" type="image" /> <img alt="" border="0" height="1" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" /></form>
+
+<p style="text-align: center;"><a href="https://koleoncult.com/" class="mainPage">Main Page</a></p>
+
+<style type="text/css">
+.mainPage {
+	background-color:#44c767;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:33px;
+	line-height:33px;
+width:114px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.mainPage:hover {
+	background-color:#5cbf2a;
+}.mainPage:active {
+	position:relative;
+	top:1px;
+}</style>
+
+<p style="text-align: center;"><a href="#"><img alt="unknow2n" border="0" src="https://i.ibb.co/GC3rSLr/unknow2n.png" /></a></p>
+
+<p style="text-align: center;"><a href="#"><img alt="unknown" border="0" src="https://i.ibb.co/L8VcTqm/unknown.png" /></a></p>
+
+<p style="text-align: center;"><a href="#"><img alt="unknown2" border="0" src="https://i.ibb.co/B3pBJ4X/unknown2.png" /></a></p>
+
+<p style="text-align: center;"><a href="#"><img alt="unknown3" border="0" src="https://i.ibb.co/kxqRbDY/unknown3.png" /></a></p>
+</body>
+</html>
